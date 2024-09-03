@@ -1,0 +1,15 @@
+{
+    "name": "ExampleTokenOne",
+    "symbol": "EXT1",
+    "decimals": 9,
+    "totalSupply": "1000000000000000000",
+    "description": "This is an example Jetton used for demonstration purposes.",
+    "icon": "https://example.com/icon.png",
+    "documentation": "https://example.com/docs",
+    "website": "https://example.com",
+    "social": {
+      "twitter": "https://twitter.com/exampletoken",
+      "telegram": "https://t.me/exampletoken"
+    }
+  }
+  
