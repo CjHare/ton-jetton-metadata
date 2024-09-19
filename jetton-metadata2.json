@@ -3,7 +3,7 @@
     "symbol": "TTT2",
     "decimals": 9,
     "totalSupply": "3000000000000000000",
-    "description": "Second Jetton used for TonSwap test purposes.",
+    "description": "The third custom Jetton created for TonSwap testing",
     "icon": "https://raw.githubusercontent.com/CjHare/ton-jetton-metadata/main/logo2.png",
     "documentation": "https://example.com/docs",
     "website": "https://example.com",

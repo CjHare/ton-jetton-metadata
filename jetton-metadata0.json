@@ -3,7 +3,7 @@
     "symbol": "TTT0",
     "decimals": 9,
     "totalSupply": "1000000000000000000",
-    "description": "First Jetton used for TonSwap test purposes.",
+    "description": "The first custom Jetton created for TonSwap testing",
     "icon": "https://raw.githubusercontent.com/CjHare/ton-jetton-metadata/main/logo0.png",
     "documentation": "https://example.com/docs",
     "website": "https://example.com",
