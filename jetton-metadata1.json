@@ -1,0 +1,15 @@
+{
+    "name": "TonSwap Test Token One",
+    "symbol": "TTT1",
+    "decimals": 9,
+    "totalSupply": "2000000000000000000",
+    "description": "Second Jetton used for TonSwap test purposes.",
+    "icon": "https://example.com/icon.png",
+    "documentation": "https://example.com/docs",
+    "website": "https://example.com",
+    "social": {
+      "twitter": "https://twitter.com/exampletoken",
+      "telegram": "https://t.me/exampletoken"
+    }
+  }
+  
