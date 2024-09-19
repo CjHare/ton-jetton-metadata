@@ -2,9 +2,9 @@
     "name": "TonSwap Test Token Two",
     "symbol": "TTT2",
     "decimals": 9,
-    "totalSupply": "2000000000000000000",
+    "totalSupply": "3000000000000000000",
     "description": "Second Jetton used for TonSwap test purposes.",
-    "icon": "https://example.com/icon.png",
+    "icon": "https://raw.githubusercontent.com/CjHare/ton-jetton-metadata/main/logo2.png",
     "documentation": "https://example.com/docs",
     "website": "https://example.com",
     "social": {
